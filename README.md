@@ -1,5 +1,6 @@
 # vue_crash_todolitst
-
+This project was based off of Travery Media's youtube video of the vue to-do list. 
+https://www.youtube.com/watch?v=0d7cIfiydAc
 ## Project setup
 ```
 npm install
